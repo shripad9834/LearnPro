@@ -49,4 +49,25 @@ Learn Pro is a cross-platform mobile application developed using **Flutter** tha
 - 🎮 Increased engagement & retention with gamified learning tools  
 - 🏫 Scalable solution for educational institutions & self-learners
 
+Home Page
+
 ![Image](https://github.com/user-attachments/assets/fd298dc9-9136-48d5-8241-0c5bae64ec29)
+
+Branches
+![Image](https://github.com/user-attachments/assets/d1bcab63-689c-45d5-b401-de02ceb1a44e)
+
+Semesters
+![Image](https://github.com/user-attachments/assets/69619f75-4085-4d4b-8764-43d4d36f76e5)
+
+Subjects
+![Image](https://github.com/user-attachments/assets/51adfc89-204d-4a87-a5c1-6afe0c619440)
+
+Study Material
+![Image](https://github.com/user-attachments/assets/ba1c6964-68cf-4a57-a1ec-c85216fba4f0)
+
+Data
+![Image](https://github.com/user-attachments/assets/bc1c8be9-0092-4f41-8d45-7d4bec1ecc95)
+
+Notifications
+![Image](https://github.com/user-attachments/assets/b9040655-0c12-49c8-a81a-b0cdcd4f5180)
+
