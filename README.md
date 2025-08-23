@@ -74,4 +74,4 @@ Learn Pro is a cross-platform mobile application developed using **Flutter** tha
 ![Video Section](https://github.com/user-attachments/assets/7e96fbd4-4fb2-4a4c-b68e-1b239eaf61ac)  
 
 ### 📝 Quiz Section  
-![Quiz Section](https://github.com/user-attachments/assets/71c43c81-8d60-4e66-a96f-c1a1d6d9ecee)  
+![Quiz Section](https://github.com/user-attachments/assets/71c43c81-8d60-4e66-a96f-c1a1d6d9ecee)    
