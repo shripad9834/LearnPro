@@ -71,3 +71,8 @@ Data
 Notifications
 ![Image](https://github.com/user-attachments/assets/b9040655-0c12-49c8-a81a-b0cdcd4f5180)
 
+Video Section
+![Image](https://github.com/user-attachments/assets/7e96fbd4-4fb2-4a4c-b68e-1b239eaf61ac)
+
+Quiz Section
+![Image](https://github.com/user-attachments/assets/b6165dd7-f29d-4dcd-aeb3-fec797d30de1)
