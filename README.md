@@ -75,4 +75,4 @@ Video Section
 ![Image](https://github.com/user-attachments/assets/7e96fbd4-4fb2-4a4c-b68e-1b239eaf61ac)
 
 Quiz Section
-![Image](https://github.com/user-attachments/assets/b6165dd7-f29d-4dcd-aeb3-fec797d30de1)
+![Image](https://github.com/user-attachments/assets/71c43c81-8d60-4e66-a96f-c1a1d6d9ecee)
