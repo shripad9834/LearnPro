@@ -49,29 +49,22 @@ Learn Pro is a cross-platform mobile application developed using **Flutter** tha
 - 🎮 Increased engagement & retention with gamified learning tools  
 - 🏫 Scalable solution for educational institutions & self-learners
 
-### 🏠 Home Page  
-![Home Page](https://github.com/user-attachments/assets/fd298dc9-9136-48d5-8241-0c5bae64ec29)  
+## 📸 Screenshots  
 
-### 🌿 Branches  
-![Branches](https://github.com/user-attachments/assets/d1bcab63-689c-45d5-b401-de02ceb1a44e)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd298dc9-9136-48d5-8241-0c5bae64ec29" alt="Home Page" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d1bcab63-689c-45d5-b401-de02ceb1a44e" alt="Branches" width="250"/>
+  <img src="https://github.com/user-attachments/assets/69619f75-4085-4d4b-8764-43d4d36f76e5" alt="Semesters" width="250"/>
+</p>  
 
-### 📚 Semesters  
-![Semesters](https://github.com/user-attachments/assets/69619f75-4085-4d4b-8764-43d4d36f76e5)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51adfc89-204d-4a87-a5c1-6afe0c619440" alt="Subjects" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ba1c6964-68cf-4a57-a1ec-c85216fba4f0" alt="Study Material" width="250"/>
+  <img src="https://github.com/user-attachments/assets/bc1c8be9-0092-4f41-8d45-7d4bec1ecc95" alt="Data" width="250"/>
+</p>  
 
-### 📖 Subjects  
-![Subjects](https://github.com/user-attachments/assets/51adfc89-204d-4a87-a5c1-6afe0c619440)  
-
-### 📑 Study Material  
-![Study Material](https://github.com/user-attachments/assets/ba1c6964-68cf-4a57-a1ec-c85216fba4f0)  
-
-### 📊 Data  
-![Data](https://github.com/user-attachments/assets/bc1c8be9-0092-4f41-8d45-7d4bec1ecc95)  
-
-### 🔔 Notifications  
-![Notifications](https://github.com/user-attachments/assets/b9040655-0c12-49c8-a81a-b0cdcd4f5180)  
-
-### 🎥 Video Section  
-![Video Section](https://github.com/user-attachments/assets/7e96fbd4-4fb2-4a4c-b68e-1b239eaf61ac)  
-
-### 📝 Quiz Section  
-![Quiz Section](https://github.com/user-attachments/assets/71c43c81-8d60-4e66-a96f-c1a1d6d9ecee)    
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9040655-0c12-49c8-a81a-b0cdcd4f5180" alt="Notifications" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7e96fbd4-4fb2-4a4c-b68e-1b239eaf61ac" alt="Video Section" width="250"/>
+  <img src="https://github.com/user-attachments/assets/71c43c81-8d60-4e66-a96f-c1a1d6d9ecee" alt="Quiz Section" width="250"/>
+</p>
